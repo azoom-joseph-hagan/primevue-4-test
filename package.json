@@ -1,0 +1,23 @@
+{
+  "name": "primevue-4-test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/devtools": "latest",
+    "@primeuix/themes": "^1.2.3",
+    "@primevue/nuxt-module": "^4.3.7",
+    "@primevue/themes": "^4.3.7",
+    "nuxt": "^3.13.0",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.3.7",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
